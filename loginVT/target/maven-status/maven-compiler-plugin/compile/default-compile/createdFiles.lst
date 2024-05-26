@@ -1,0 +1,4 @@
+com\mycompany\fercho\JakartaRestConfiguration.class
+com\mycompany\fercho\resources\JakartaEE8Resource.class
+utils\DatabaseConnection.class
+servlets\LoginServlet.class
